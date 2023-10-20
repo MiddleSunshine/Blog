@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-app-main.v3.css",
+    "main.js": "/my-app-main.v5.js",
+    "my-app-787.chunk.js": "/my-app-787.chunk.js",
+    "index.html": "/index.html",
+    "my-app-main.v3.css.map": "/my-app-main.v3.css.map",
+    "my-app-main.v5.js.map": "/my-app-main.v5.js.map",
+    "my-app-787.chunk.js.map": "/my-app-787.chunk.js.map"
+  },
+  "entrypoints": [
+    "my-app-main.v3.css",
+    "my-app-main.v5.js"
+  ]
+}
